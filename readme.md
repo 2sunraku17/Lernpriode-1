@@ -26,5 +26,5 @@
 
 - [ ] Ich will ein randomizer der von 5 verschiedenen Fragen (die ich ins Programm getan habe) eine Frage auswählt und sie `Console.WriteLine` sichtbarmacht
 - [ ] Eingabe wie viele Fragen man gestellt werden will.
-- [ ] 
-- [ ]
+- [ ] Bonusfrage mit mehreren möglichkeiten
+- [ ] Note und Punktzahl am schluss angeben
