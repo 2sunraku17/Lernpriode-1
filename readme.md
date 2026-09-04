@@ -14,7 +14,7 @@
 
 ## 4.9.2026
 
-- [ ] Ich will ein randomizer der von 5 verschiedenen Fragen (die ich ins Programm getan habe) eine Frage auswählt und sie Consol.Write sichtbarmacht
+- [ ] Ich will ein randomizer der von 5 verschiedenen Fragen (die ich ins Programm getan habe) eine Frage auswählt und sie `Console.Writeline` sichtbarmacht
 - [ ] Ich will machen das ich diese Frage mit "bool" true und false beantworten kann
 - [ ] Ich will machen dass wenn ich Enter drücke die nächste Random Frage kommt und sie dann auch beantworten Kann. Am Schluss kommt meine Punkte Bewertung also z.B 5/5
 
