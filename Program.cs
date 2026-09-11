@@ -1,0 +1,103 @@
+﻿Console.WriteLine("===== True or False Quiz =====");
+
+int punkte = 0;
+
+Console.Write("Wie viele Fragen möchten Sie? (1-5): ");
+int anzahl = Convert.ToInt32(Console.ReadLine());
+
+int frage = 1;
+
+while (frage <= anzahl)
+{
+    if (frage == 1)
+    {
+        Console.WriteLine("Sind Sie ein Mensch true/false?");
+        bool antwort = Convert.ToBoolean(Console.ReadLine());
+
+        if (antwort == true)
+        {
+            Console.WriteLine("Das ist Richtig!!");
+            punkte++;
+        }
+    }
+
+    if (frage == 2)
+    {
+        Console.WriteLine("Sind Sie ein Tier true/false?");
+        bool antwort = Convert.ToBoolean(Console.ReadLine());
+
+        if (antwort == false)
+        {
+            Console.WriteLine("Das ist Richtig!!");
+            punkte++;
+        }
+    }
+
+    if (frage == 3)
+    {
+        Console.WriteLine("Sind Sie ein Roboter true/false?");
+        bool antwort = Convert.ToBoolean(Console.ReadLine());
+
+        if (antwort == false)
+        {
+            Console.WriteLine("Das ist Richtig!!");
+            punkte++;
+        }
+    }
+
+    if (frage == 4)
+    {
+        Console.WriteLine("Ist die Erde ein Planet true/false?");
+        bool antwort = Convert.ToBoolean(Console.ReadLine());
+
+        if (antwort == true)
+        {
+            Console.WriteLine("Das ist Richtig!!");
+            punkte++;
+        }
+    }
+
+    if (frage == 5)
+    {
+        Console.WriteLine("Ist die Sonne ein Planet true/false?");
+        bool antwort = Convert.ToBoolean(Console.ReadLine());
+
+        if (antwort == false)
+        {
+            Console.WriteLine("Das ist Richtig!!");
+            punkte++;
+        }
+    }
+
+    frage++;
+}
+
+Console.WriteLine("===== BONUS FRAGE =====");
+Console.WriteLine("Welcher ist der 2. Planet in unserem Sonnensystem?");
+Console.WriteLine("1 = Mars");
+Console.WriteLine("2 = Venus");
+Console.WriteLine("3 = Jupiter");
+Console.WriteLine("4 = Merkur");
+
+int bonus = Convert.ToInt32(Console.ReadLine());
+
+if (bonus == 2)
+{
+    Console.WriteLine("Das ist richtig!!");
+    Console.WriteLine("Sie bekommen einen Bonuspunkt!");
+    punkte++;
+}
+else
+{
+    Console.WriteLine("Das ist falsch!!");
+}
+
+int maxpunkte = anzahl + 1;
+
+Console.WriteLine("Ihre Punktzahl ist " + punkte + "/" + maxpunkte);
+
+double Note = ((double)punkte / maxpunkte * 5 + 1);
+
+Console.WriteLine("Ihre Note ist " + Note);
+
+Console.Read();
