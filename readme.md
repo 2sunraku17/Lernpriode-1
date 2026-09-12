@@ -24,7 +24,15 @@
 
 ## 11.9.2026
 
-- [ ] Ich will ein randomizer der von 5 verschiedenen Fragen (die ich ins Programm getan habe) eine Frage auswählt und sie `Console.WriteLine` sichtbarmacht
-- [ ] Eingabe wie viele Fragen man gestellt werden will.
-- [ ] Bonusfrage mit mehreren möglichkeiten
-- [ ] Note und Punktzahl am schluss angeben
+- [x] Ich will ein randomizer der von 5 verschiedenen Fragen (die ich ins Programm getan habe) eine Frage auswählt und sie `Console.WriteLine` sichtbarmacht
+- [x] Eingabe wie viele Fragen man gestellt werden will.
+- [x] Bonusfrage mit mehreren möglichkeiten
+- [x] Note und Punktzahl am schluss angeben
+
+Heute habe ich an meinem Quiz gearbeitet. Die Eingabe der Fragen, die Bonusfrage sowie die Punktzahl und Note funktionieren. Der Randomizer ist mir leider noch nicht gelungen. Insgesamt bin ich mit meinem Fortschritt zufrieden.
+
+## 18.9.2026
+
+- [ ] Den Randomizer zum Funktionieren bringen.
+- [ ] Die Fragen verbessern und erweitern.
+- [ ] Das Design und die Texte im Quiz verbessern.
