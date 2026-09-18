@@ -1,6 +1,10 @@
 # Lern-Periode 1
+## Zusammenfassung vom fertigen Projekt
 
-28.8 bis ?
+Das Programm ist ein True-or-False-Quiz mit 5 Fragen und einer Bonusfrage. Es überprüft die Antworten, zählt die Punkte und berechnet am Ende die Note. Console.Read() sorgt dafür, dass das Ergebnis sichtbar bleibt.
+
+<img width="1736" height="930" alt="Aufzeichnung 2026-09-18 162312" src="https://github.com/user-attachments/assets/ab5265df-c451-4444-bc23-17681d8e1d5d" />
+
 
 ## Grob-Planung
 
@@ -41,13 +45,3 @@ Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Ben
 - [x] Das Design und die Texte im Quiz verbessern.
 
 
-## Zusammenfassung vom fertigen Projekt
-
-
-Das Programm ist ein True-or-False-Quiz. Zuerst wird ein Titel angezeigt und die Punktzahl auf 0 gesetzt. Danach kann der Benutzer auswählen, wie viele von den 5 Fragen gestellt werden sollen.
-
-Mit while wird kontrolliert, ob die eingegebene Anzahl zwischen 1 und 5 liegt. Danach werden die Fragen nacheinander gestellt. Der Benutzer gibt true oder false ein. Mit if wird überprüft, ob die Antwort richtig ist. Bei einer richtigen Antwort wird mit punkte++ ein Punkt dazugezählt.
-
-Nachdem die normalen Fragen beantwortet wurden, kommt die Bonusfrage. Dabei kann der Benutzer zwischen vier Antworten wählen. Auch hier wird mit while überprüft, ob eine gültige Zahl von 1 bis 4 eingegeben wurde. Die richtige Antwort ist 2, also Venus. Bei einer richtigen Antwort gibt es einen zusätzlichen Punkt.
-
-Zum Schluss wird die maximale Punktzahl berechnet. Danach berechnet das Programm anhand der erreichten Punkte die Note und zeigt sowohl die Punktzahl als auch die Note an. Am Ende wird Console.Read() verwendet, damit das Konsolenfenster geöffnet bleibt und sich nicht sofort schließt. So kann man die angezeigte Punktzahl und Note noch sehen, bevor das Programm beendet wird.
