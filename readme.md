@@ -41,8 +41,8 @@ Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Ben
 - [ ] Die Fragen verbessern und erweitern.
 - [ ] Das Design und die Texte im Quiz verbessern.
 
-## fertiges Projekt
-## Zusammenfassung vom ganzen Guiz-Code
+
+## Zusammenfassung vom fertigen Projekt
 
 
 Das Programm ist ein True-or-False-Quiz. Zuerst wird ein Titel angezeigt und die Punktzahl auf 0 gesetzt. Danach kann der Benutzer auswählen, wie viele von den 5 Fragen gestellt werden sollen.
