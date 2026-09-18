@@ -43,5 +43,8 @@ Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Ben
 
 - [x] Die Fragen verbessern und erweitern.
 - [x] Das Design und die Texte im Quiz verbessern.
+## Reflexion
 
+
+Meine Lernperiode war aufbauend. Zuerst habe ich einen Zahlen-Guesser programmiert und dabei gelernt, mit Zufallszahlen, Eingaben und Bedingungen zu arbeiten. Danach habe ich einen Notenrechner erstellt, der aus erreichten Punkten eine Note berechnet. Anschließend habe ich die beiden Programme miteinander verbunden und das Gelernte genutzt, um mein eigenes Quiz zu bauen. Dabei kamen immer mehr Funktionen dazu, wie die Fragen, Eingabeprüfungen, eine Bonusfrage, die Punktzahl und am Schluss die Notenausgabe. So konnte ich Schritt für Schritt auf meinem bisherigen Wissen aufbauen und neue Funktionen ausprobieren. Beim Randomizer hatte ich zuerst Schwierigkeiten, wodurch ich gemerkt habe, dass ich Probleme besser Schritt für Schritt lösen muss. Insgesamt erkenne ich das Muster, dass ich mit jedem Programm etwas Neues gelernt und dieses Wissen direkt für das nächste Projekt verwendet habe. Aus zwei kleineren Programmen ist so ein vollständiges Quiz entstanden, mit dem ich mein gelerntes Wissen praktisch anwenden konnte.
 
