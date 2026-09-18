@@ -31,6 +31,10 @@
 
 Heute habe ich an meinem Quiz gearbeitet. Die Eingabe der Fragen, die Bonusfrage sowie die Punktzahl und Note funktionieren. Der Randomizer ist mir leider noch nicht gelungen. Insgesamt bin ich mit meinem Fortschritt zufrieden.
 
+#HA auf 18.9.2026
+- [x] Eingabeprüfung im Quiz
+Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Benutzer erneut nach einer gültigen Zahl frage.
+
 ## 18.9.2026
 
 - [ ] Den Randomizer zum Funktionieren bringen.
