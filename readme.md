@@ -40,3 +40,15 @@ Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Ben
 - [ ] Den Randomizer zum Funktionieren bringen.
 - [ ] Die Fragen verbessern und erweitern.
 - [ ] Das Design und die Texte im Quiz verbessern.
+
+##fertiges Projekt
+##Zusammenfassung vom ganzen Guiz-Code
+
+
+Das Programm ist ein True-or-False-Quiz. Zuerst wird ein Titel angezeigt und die Punktzahl auf 0 gesetzt. Danach kann der Benutzer auswählen, wie viele von den 5 Fragen gestellt werden sollen.
+
+Mit while wird kontrolliert, ob die eingegebene Anzahl zwischen 1 und 5 liegt. Danach werden die Fragen nacheinander gestellt. Der Benutzer gibt true oder false ein. Mit if wird überprüft, ob die Antwort richtig ist. Bei einer richtigen Antwort wird mit punkte++ ein Punkt dazugezählt.
+
+Nachdem die normalen Fragen beantwortet wurden, kommt die Bonusfrage. Dabei kann der Benutzer zwischen vier Antworten wählen. Auch hier wird mit while überprüft, ob eine gültige Zahl von 1 bis 4 eingegeben wurde. Die richtige Antwort ist 2, also Venus. Bei einer richtigen Antwort gibt es einen zusätzlichen Punkt.
+
+Zum Schluss wird die maximale Punktzahl berechnet. Danach berechnet das Programm anhand der erreichten Punkte die Note und zeigt sowohl die Punktzahl als auch die Note an. Am Ende wird Console.Read() verwendet, damit das Konsolenfenster geöffnet bleibt und sich nicht sofort schließt. So kann man die angezeigte Punktzahl und Note noch sehen, bevor das Programm beendet wird.
