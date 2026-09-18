@@ -31,7 +31,7 @@
 
 Heute habe ich an meinem Quiz gearbeitet. Die Eingabe der Fragen, die Bonusfrage sowie die Punktzahl und Note funktionieren. Der Randomizer ist mir leider noch nicht gelungen. Insgesamt bin ich mit meinem Fortschritt zufrieden.
 
-#HA auf 18.9.2026
+# HA auf 18.9.2026
 - [x] Eingabeprüfung im Quiz
 Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Benutzer erneut nach einer gültigen Zahl frage.
 
@@ -41,8 +41,8 @@ Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Ben
 - [ ] Die Fragen verbessern und erweitern.
 - [ ] Das Design und die Texte im Quiz verbessern.
 
-##fertiges Projekt
-##Zusammenfassung vom ganzen Guiz-Code
+## fertiges Projekt
+## Zusammenfassung vom ganzen Guiz-Code
 
 
 Das Programm ist ein True-or-False-Quiz. Zuerst wird ein Titel angezeigt und die Punktzahl auf 0 gesetzt. Danach kann der Benutzer auswählen, wie viele von den 5 Fragen gestellt werden sollen.
