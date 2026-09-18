@@ -37,9 +37,8 @@ Ich habe mein Quiz verbessert, indem ich ungültige Eingaben erkenne und den Ben
 
 ## 18.9.2026
 
-- [ ] Den Randomizer zum Funktionieren bringen.
-- [ ] Die Fragen verbessern und erweitern.
-- [ ] Das Design und die Texte im Quiz verbessern.
+- [x] Die Fragen verbessern und erweitern.
+- [x] Das Design und die Texte im Quiz verbessern.
 
 
 ## Zusammenfassung vom fertigen Projekt
